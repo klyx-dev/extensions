@@ -1,0 +1,3 @@
+[submodule "extensions/python-lsp-klyx"]
+	path = extensions/python-lsp-klyx
+	url = https://github.com/itsvks19/python-lsp-klyx
