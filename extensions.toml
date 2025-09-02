@@ -1,3 +1,7 @@
 [python-lsp-klyx]
 submodule = "extensions/python-lsp-klyx"
 version = "0.0.1"
+
+[cpp-lsp]
+submodule = "extensions/cpp-lsp"
+version = "0.1.0"
