@@ -4,3 +4,6 @@
 [submodule "extensions/cpp-lsp"]
 	path = extensions/cpp-lsp
 	url = https://github.com/itsvks19/cpp-lsp-klyx
+[submodule "extensions/rust"]
+	path = extensions/rust
+	url = https://github.com/itsvks19/rust-lsp-klyx
