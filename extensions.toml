@@ -5,3 +5,7 @@ version = "0.0.1"
 [cpp-lsp]
 submodule = "extensions/cpp-lsp"
 version = "0.1.0"
+
+[rust]
+submodule = "extensions/rust"
+version = "0.0.1"
