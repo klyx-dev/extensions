@@ -7,3 +7,6 @@
 [submodule "extensions/rust"]
 	path = extensions/rust
 	url = https://github.com/itsvks19/rust-lsp-klyx
+[submodule "extensions/kotlin"]
+	path = extensions/kotlin
+	url = https://github.com/itsvks19/kotlin-klyx
