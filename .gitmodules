@@ -10,3 +10,6 @@
 [submodule "extensions/kotlin"]
 	path = extensions/kotlin
 	url = https://github.com/itsvks19/kotlin-klyx
+[submodule "extensions/java"]
+	path = extensions/java
+	url = https://github.com/klyx-extensions/java
