@@ -1,0 +1,13 @@
+{
+  "store_version": 1,
+  "last_updated": "2026-03-22T17:50:28.172Z",
+  "extensions": [
+    {
+      "id": "com.vk.rs",
+      "name": "Rust",
+      "author": "Vivek",
+      "description": "Rust support.",
+      "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.vk.rs_vundefined.kxext"
+    }
+  ]
+}
