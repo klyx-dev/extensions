@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "last_updated": "2026-03-22T19:13:23.085Z",
+  "last_updated": "2026-03-23T04:48:47.646Z",
   "extensions": [
     {
       "id": "com.vk.rs",
@@ -9,6 +9,14 @@
       "version": "1.0.0",
       "description": "Rust support.",
       "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.vk.rs_v1.0.0.kxext"
+    },
+    {
+      "id": "com.author.extension",
+      "name": "New Extension",
+      "author": "Unknown",
+      "version": "1.0.0",
+      "description": "test",
+      "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.author.extension_v1.0.0.kxext"
     }
   ]
 }
