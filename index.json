@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "last_updated": "2026-04-12T09:07:31.012Z",
+  "last_updated": "2026-04-12T09:25:04.020Z",
   "extensions": [
     {
       "id": "com.vk.rs",
@@ -17,14 +17,6 @@
       "version": "1.0.0",
       "description": "Ardev Plugin",
       "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/ardev.plugin_v1.0.0.kxext"
-    },
-    {
-      "id": "com.deejinng.extension",
-      "name": "TypeScript LSP",
-      "author": "DEEJINNG",
-      "version": "1.0.0",
-      "description": "TypeScript LSP support for Klyx",
-      "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.deejinng.extension_v1.0.0.kxext"
     }
   ]
 }
