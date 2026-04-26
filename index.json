@@ -1,6 +1,6 @@
 {
   "store_version": 1,
-  "last_updated": "2026-04-26T13:45:21.538Z",
+  "last_updated": "2026-04-26T13:46:38.586Z",
   "extensions": [
     {
       "id": "com.vk.rs",
@@ -25,6 +25,15 @@
       "version": "1.0.0",
       "description": "LSP support for C using clangd. Planning to add C++ support later. Make sure to install clangd binary in the terminal before using.",
       "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.srinuyadav.clsp_v1.0.0.kxext",
+      "publisher_id": ""
+    },
+    {
+      "id": "com.rusdi.extension",
+      "name": "pylsp",
+      "author": "Rusdi  ",
+      "version": "1.0.0",
+      "description": "Python Language Server",
+      "download_url": "https://cdn.jsdelivr.net/gh/klyx-dev/extensions@main/binaries/com.rusdi.extension_v1.0.0.kxext",
       "publisher_id": ""
     }
   ]
